@@ -1,0 +1,42 @@
+﻿AllPicta – LICENSE AGREEMENT (freeware)
+=======================================
+
+Copyright © 2026 AudriusV. All rights reserved.
+
+1. PERMISSION TO USE
+   AllPicta (the "Software") is free of charge. You may install and use it
+   on any number of computers for personal and business purposes.
+
+2. DISTRIBUTION
+   You may freely redistribute the unmodified installer (AllPicta-Setup.exe)
+   at no charge, provided this license is distributed with it.
+   You may not sell, rent or distribute the Software for a fee, nor
+   distribute it in modified form or bundled into another product without
+   the author's written permission.
+
+3. RESTRICTIONS
+   You may not modify, decompile, disassemble or otherwise attempt to
+   derive the source code of the Software, except where expressly
+   permitted by applicable law.
+
+4. OWNERSHIP
+   The Software, its code, name and icon are owned by the author.
+   This license grants you a right to use the Software, not ownership.
+
+5. THIRD-PARTY COMPONENTS
+   The Software uses the Zstandard library (libzstd.dll), which is covered
+   by its own BSD license (see THIRD-PARTY-NOTICES.txt).
+   Other product names and trademarks belong to their respective owners.
+   The Software is not affiliated with these companies.
+
+6. NO WARRANTY
+   The Software is provided "AS IS", without warranty of any kind, express
+   or implied, including fitness for a particular purpose.
+
+7. LIMITATION OF LIABILITY
+   To the extent permitted by law, the author is not liable for any damage
+   (including loss of data) arising from the use of, or inability to use,
+   the Software.
+
+8. By installing or using the Software you agree to the terms of this
+   license. If you do not agree, do not install or use the Software.
